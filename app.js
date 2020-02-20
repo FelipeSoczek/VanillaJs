@@ -5,7 +5,7 @@ console.log(Array.isArray(titles)); //testa se é array
 console.log(Array.isArray(Array.from(titles))); //Converte em array
 
 Array.from(titles).forEach(function(item){
-	console.log(item);
+	console.log(item); Typo test
 })
 */
 
